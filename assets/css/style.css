@@ -1,0 +1,27 @@
+body{
+    color: #ffffff;
+    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);
+    background: linear-gradient(to right, #2C5364, #203A43, #0F2027); 
+}
+.content{
+    margin: 200px;
+}
+h1{
+    font-size: 2rem;
+}
+ul{
+    list-style-type: none;
+}
+ul li {
+    display: block;
+    font-size: 1.4rem;
+}
+ul li a{
+    color: #ffffff;
+}
+ul li a:hover{
+    color: antiquewhite;
+}
+ul li i{
+    padding-right: .6rem;
+}
